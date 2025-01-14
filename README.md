@@ -2,7 +2,7 @@ Project in which we used Wireshark to analyze a packet capture files, and TCPDUM
 <h1>Network-Protocol-Analyzer-Tools</h1>
 
 <h2>Description</h2>
-Project in which we used Wireshark and TCPDUMP command-line interface to analyze a packet capture files. Also explains how to track network activity, tcp, ip and http packets. You will also see eardrops on username and password from unsecure websites.
+Project in which we used Wireshark and TCPDUMP command-line interface to analyze a packet capture files. Also explains how to track network activity, tcp, ip and http packets. I alo filtered searches by color to indicate brute force attacks
 
 <h2>Languages and Utilities Used</h2>
 
